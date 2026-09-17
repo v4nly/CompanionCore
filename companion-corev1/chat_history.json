@@ -1,0 +1,12 @@
+[
+  {
+    "sender": "user",
+    "text": "buenos dias"
+  },
+  {
+    "sender": "bot",
+    "text": "¿Qué quieres?",
+    "emotion": "normal",
+    "character": "Aoi"
+  }
+]
